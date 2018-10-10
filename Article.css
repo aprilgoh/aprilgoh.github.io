@@ -1,0 +1,30 @@
+h1 {
+  color: maroon;
+  font-size: 48px;
+  font-family:
+}
+body {
+  font-size: 18;
+  font-family: Georgia;
+}
+article {
+  padding: 10px 60px;
+}
+img {
+  max-width: 100%;
+}
+figure {
+  margin: 10px 0px;
+}
+.dateline {
+  color: darkgray;
+  font-style: italic;
+}
+.byline {
+  font-style: italic;
+  color: darkgray;
+}
+figcaption {
+  font-style: italic;
+  color: darkgray;
+}
