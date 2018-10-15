@@ -1,20 +1,21 @@
 h1 {
   color: maroon;
   font-size: 48px;
-  font-family:
+  margin-top: 0px;
 }
 body {
   font-size: 18;
   font-family: Georgia;
 }
 article {
-  padding: 10px 60px;
+  padding: 10px 5px;
 }
 img {
   max-width: 100%;
+  position: relative; z-index: -1;
 }
 figure {
-  margin: 10px 0px;
+  margin: 10px 20px;
 }
 .dateline {
   color: darkgray;
@@ -27,4 +28,27 @@ figure {
 figcaption {
   font-style: italic;
   color: darkgray;
+}
+.header {
+  align: left;
+  color: white;
+  background-color: brown;
+  width: 100%;
+  height: 60px;
+  text-indent: 12px;
+  position: absolute;
+}
+.icon {
+  padding-top: 6px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.sticky + .content {
+  padding-top: 50px;
+}
+.readmore {
+  color: blue;
 }
