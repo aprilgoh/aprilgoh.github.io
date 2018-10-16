@@ -1,5 +1,5 @@
 h1 {
-  color: maroon;
+  color: black;
   font-size: 48px;
   margin-top: 0px;
 }
@@ -8,17 +8,17 @@ body {
   font-family: Georgia;
 }
 article {
-  padding: 10px 5px;
+  padding: 5px 5px;
 }
 img {
   max-width: 100%;
   position: relative; z-index: -1;
 }
 figure {
-  margin: 10px 20px;
+  margin: 5px 20px;
 }
 .dateline {
-  color: darkgray;
+  color: brown!important;
   font-style: italic;
 }
 .byline {
@@ -32,7 +32,7 @@ figcaption {
 .header {
   align: left;
   color: white;
-  background-color: brown;
+  background-color: darkgray;
   width: 100%;
   height: 60px;
   text-indent: 12px;
