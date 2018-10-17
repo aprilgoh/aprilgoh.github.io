@@ -1,9 +1,9 @@
 h1 {
-  color: maroon;
-  font-size: 48px;
+  color: black;
+  font-size: 30px!important;
   margin-top: 0px;
-  letter-spacing: 1px;
-  font-family: 'Poppins', sans-serif!important;
+  letter-spacing: 0px;
+  font-family: Georgia!important;
   font-style: italic!important;
 }
 body {
