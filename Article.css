@@ -2,10 +2,14 @@ h1 {
   color: maroon;
   font-size: 48px;
   margin-top: 0px;
+  letter-spacing: 1px;
+  font-family: 'Poppins', sans-serif!important;
+  font-style: italic!important;
 }
 body {
   font-size: 18;
-  font-family: Georgia;
+  font-family: Georgia!important;
+  line-height: 25px!important;
 }
 article {
   padding: 10px 5px;
