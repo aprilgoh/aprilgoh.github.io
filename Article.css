@@ -1,11 +1,15 @@
 h1 {
-  color: maroon;
-  font-size: 48px;
+  color: black;
+  font-size: 25px!important;
   margin-top: 0px;
+  letter-spacing: 0px;
+  font-family: Georgia!important;
+  font-style: italic!important;
 }
 body {
   font-size: 18;
-  font-family: Georgia;
+  font-family: Georgia!important;
+  line-height: 25px!important;
 }
 article {
   padding: 10px 5px;
