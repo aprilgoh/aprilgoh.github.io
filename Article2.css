@@ -13,10 +13,10 @@ body {
   padding: 20px 10px!important;
 }
 article {
-  padding: 10px 5px;
+  padding: 10px 0px;
 }
 img {
-  max-width: 100%;
+  max-width: 95%;
 }
 figure {
   margin: 10px 20px;
@@ -41,4 +41,11 @@ figcaption {
   height: 60px;
   text-indent: 12px;
   position: absolute;
+}
+.readmore {
+  color: blue;
+  top: -40px;
+}
+.Link {
+  color: blue;
 }
