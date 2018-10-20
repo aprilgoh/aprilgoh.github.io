@@ -3,35 +3,32 @@ h1 {
   font-size: 25px!important;
   margin-top: 0px;
   letter-spacing: 0px;
-  font-family: Georgia!important;
-  font-style: italic!important;
+  font-family: helvetica!important;
 }
 body {
   font-size: 18;
   font-family: Georgia!important;
   line-height: 25px!important;
+  padding: 25px 10px!important;
 }
 article {
-  padding: 10px 5px;
+  padding: 10px 0px;
 }
 img {
-  max-width: 100%;
-  position: relative; z-index: -1;
+  max-width: 95%;
 }
 figure {
   margin: 10px 20px;
 }
-.dateline {
-  color: darkgray;
-  font-style: italic;
-}
 .byline {
-  font-style: italic;
+  font-style: normal!important;
   color: darkgray;
+  font-family: helvetica!important;
 }
 figcaption {
   font-style: italic;
   color: darkgray;
+  font-family: helvetica!important;
 }
 .header {
   align: left;
@@ -42,17 +39,13 @@ figcaption {
   text-indent: 12px;
   position: absolute;
 }
-.icon {
-  padding-top: 6px;
-}
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%
-}
-.sticky + .content {
-  padding-top: 50px;
-}
 .readmore {
   color: blue;
+  top: -40px;
+}
+.Link {
+  color: blue;
+}
+.name {
+  color: black!important;
 }
