@@ -4,7 +4,6 @@ h1 {
   margin-top: 0px;
   letter-spacing: 0px;
   font-family: helvetica!important;
-  font-style: italic!important;
 }
 body {
   font-size: 18;
@@ -21,17 +20,15 @@ img {
 figure {
   margin: 10px 20px;
 }
-.dateline {
-  color: darkgray;
-  font-style: italic;
-}
 .byline {
-  font-style: italic;
+  font-style: normal!important;
   color: darkgray;
+  font-family: helvetica!important;
 }
 figcaption {
   font-style: italic;
   color: darkgray;
+  font-family: helvetica!important;
 }
 .header {
   align: left;
@@ -48,4 +45,7 @@ figcaption {
 }
 .Link {
   color: blue;
+}
+.name {
+  color: black!important;
 }
