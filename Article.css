@@ -21,7 +21,7 @@ figure {
   margin: 10px 20px;
 }
 .byline {
-  font-style: normal!important;
+  font-weight: lighter!important;
   color: darkgray;
   font-family: helvetica!important;
 }
