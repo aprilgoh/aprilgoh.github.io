@@ -30,13 +30,12 @@ figcaption {
   color: darkgray;
   font-family: helvetica!important;
 }
-.related {
-  color: blue!important;
-  top: -40px;
-}
 .link {
   color: blue;
 }
 .name {
   color: black!important;
+}
+.related {
+  color: blue!important;
 }
