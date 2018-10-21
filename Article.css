@@ -31,7 +31,7 @@ figcaption {
   font-family: helvetica!important;
 }
 .related {
-  color: blue;
+  color: blue!important;
   top: -40px;
 }
 .link {
