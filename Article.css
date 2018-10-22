@@ -6,7 +6,7 @@ h1 {
   font-family: helvetica;
 }
 body {
-  font-size: 15;
+  font-size: 15px;
   font-family: Georgia;
   line-height: 25px;
   padding: 25px 10px;
@@ -24,6 +24,7 @@ figure {
   font-weight: lighter;
   color: darkgray;
   font-family: helvetica;
+  font-size: 14px;
 }
 figcaption {
   font-style: italic;
