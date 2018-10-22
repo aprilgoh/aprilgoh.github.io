@@ -1,41 +1,41 @@
 h1 {
   color: black;
-  font-size: 26px!important;
+  font-size: 24.5px;
   margin-top: 0px;
   letter-spacing: 0px;
-  font-family: helvetica!important;
+  font-family: helvetica;
 }
 body {
-  font-size: 18;
-  font-family: Georgia!important;
-  line-height: 25px!important;
-  padding: 25px 10px!important;
+  font-size: 15;
+  font-family: Georgia;
+  line-height: 25px;
+  padding: 25px 10px;
 }
 article {
   padding: 10px 0px;
 }
 img {
-  max-width: 95%;
+  max-width: 100%;
 }
 figure {
-  margin: 10px 20px;
+  margin: 40px 0px;
 }
 .byline {
-  font-weight: lighter!important;
+  font-weight: lighter;
   color: darkgray;
-  font-family: helvetica!important;
+  font-family: helvetica;
 }
 figcaption {
   font-style: italic;
   color: darkgray;
-  font-family: helvetica!important;
+  font-family: helvetica;
 }
 .link {
   color: blue;
 }
 .name {
-  color: black!important;
+  color: black;
 }
 .related {
-  color: blue!important;
+  color: blue;
 }
