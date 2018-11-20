@@ -49,3 +49,18 @@ figcaption {
     font-size: 70px;
   }
 }
+
+min-width:767px
+overflow: hidden
+side by side:
+
+width: 50% - decreasing % or including margin means more will float up
+display: block
+float: left
+
+so, margin-right: 2%; to split images
+
+use bootstrap - aligns - <div class="span6" /> etc
+orangeline - grid
+
+orangeline - standard media query
